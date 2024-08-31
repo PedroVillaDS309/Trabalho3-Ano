@@ -1,0 +1,10 @@
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\bin\Debug\TrabalhoJao.exe.config
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\bin\Debug\TrabalhoJao.exe
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\bin\Debug\TrabalhoJao.pdb
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\obj\Debug\TrabalhoJao.csproj.AssemblyReference.cache
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\obj\Debug\TrabalhoJao.Form1.resources
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\obj\Debug\TrabalhoJao.Properties.Resources.resources
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\obj\Debug\TrabalhoJao.csproj.GenerateResource.cache
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\obj\Debug\TrabalhoJao.csproj.CoreCompileInputs.cache
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\obj\Debug\TrabalhoJao.exe
+C:\Ssd110\Colegio\1-Pendrive\TrabalhoJao\TrabalhoJao\obj\Debug\TrabalhoJao.pdb
